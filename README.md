@@ -8,5 +8,5 @@ The dataset contains information on weather conditions recorded each day at vari
 This dataset is mostly to assist with the analysis of the Aerial Bombing Operations dataset.
 #### Goal or Objective:
 The Goal or the objective of this study is to predict the max and min temp based on several parameters and represent it in a visual form.
-##### To view Jupyter Notebook click [here]()     
-##### To view Viz on Tableau Public click [here]()
+##### To view Jupyter Notebook click [here](https://github.com/sneha14sawant/ML_Case_Study/blob/9e8db5563002c0ca1374dcea9df227b92246d405/Code/Project%20case%20study---prediction%20of%20min%20max%20temp--.ipynb)     
+##### To view Viz on Tableau Public click [here](https://public.tableau.com/app/profile/sneha.sawant/viz/WW2_WEATHER_TEMP_DASHBOARD/Dashboard1)
